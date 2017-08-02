@@ -1,0 +1,24 @@
+{
+  "name": "polymer-demo",
+  "authors": [
+    "Vinay"
+  ],
+  "description": "polymer demo",
+  "main": "",
+  "keywords": [
+    "{{site.project_title}}",
+    "web-components"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mailtovinay/polymer-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^2.0.2"
+  }
+}
